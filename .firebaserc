@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "semantic-pepe",
+    "pepe": "semantic-pepe"
+  }
+}
